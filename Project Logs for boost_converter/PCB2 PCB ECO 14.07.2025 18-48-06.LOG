@@ -1,0 +1,108 @@
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=RT/CT Pin=C?-1
+Removed Pin From Net: NetName=VFB Pin=C?-1
+Removed Pin From Net: NetName=VREF Pin=C?-1
+Removed Pin From Net: NetName=COMP Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=C?-2
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change component parameters: Designator = "C?" ("C3"); Footprint = "CAP TH ALPOLY D8.00mm S3.50mm H21.50mm"; UniqueID = "\BXMFMYEB" ("\BXMFMYEB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RDER71H103K0K1H03B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RDER71H103K0K1H03B/Murata/view-part/4545040/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?" ("C4"); Footprint = "CAP TH ALPOLY D8.00mm S3.50mm H21.50mm"; UniqueID = "\GDVTDDUW" ("\GDVTDDUW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "DE1E3RA152MA4BQ01F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?" ("C1"); Footprint = "CAP TH ALPOLY D8.00mm S3.50mm H21.50mm"; UniqueID = "\OXYYPBSG" ("\OXYYPBSG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RDER71H223K0M1H03A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?" ("C2"); Footprint = "CAP TH ALPOLY D8.00mm S3.50mm H21.50mm"; UniqueID = "\UVXJQOIR" ("\UVXJQOIR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/6SEP820M/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/6SEP820M/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "L?" ("L1"); Footprint = "Murata LQW18 0603"; UniqueID = "\YNBTFYFY" ("\YNBTFYFY")
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "1016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Power Inductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/7447221101?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/7447221101?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance Max"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "11mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "17mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "7447221101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WE-TI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2.45A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Saturation Current @ 10%"; Value = "2.75A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Self Resonant Frequency"; Value = "4MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "100uH"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_RDER71H103K0K1H03B)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RDER71H103K0K1H03B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RDER71H103K0K1H03B/Murata/view-part/4545040/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Added Pin To Net: NetName=VFB Pin=C1-1
+Added Pin To Net: NetName=COMP Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=ISENSE Pin=C3-1
+Added Pin To Net: NetName=RT/CT Pin=C4-1
+Added Pin To Net: NetName=VREF Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ1_3
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR3_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=R4-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetD1_A Pin=L1-2
+Added Pin To Net: NetName=NetD1_A Pin=Q1-2
+Added Net: Name=NetD1_A
+Added Member To Class: ClassName=Sheet2 Member=Component C1 10 nF
+Added Member To Class: ClassName=Sheet2 Member=Component C2 1.5 nF
+Added Member To Class: ClassName=Sheet2 Member=Component C3 1.5 nF
+Added Member To Class: ClassName=Sheet2 Member=Component C5 10nF
+Add Class Member: Failed to add class member : Component D1 UF4007
+Added Member To Class: ClassName=Sheet2 Member=Component R1 10K
+Added Member To Class: ClassName=Sheet2 Member=Component R2 100k
+Added Member To Class: ClassName=Sheet2 Member=Component R3 22
+Added Member To Class: ClassName=Sheet2 Member=Component R4 48
+Added Member To Class: ClassName=Sheet2 Member=Component R5 10
+Added Member To Class: ClassName=Sheet2 Member=Component R7 0.1
+Added Member To Class: ClassName=Sheet2 Member=Component R8 5.6k
